@@ -1,0 +1,21 @@
+body {
+    background-color:antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    display: none;
+}
+
+h1 {
+    color: #FF6F59;
+    text-align: center;
+}
+
+#start-game {
+    position: absolute;
+
+}
